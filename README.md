@@ -12,4 +12,4 @@ A Simple music Player for Linux.
 2) GStreamer - Sound.
 
 # Download:
-Link here...
+https://jonathan-linux.itch.io/cppplayer
